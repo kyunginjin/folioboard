@@ -2,7 +2,7 @@
 
 module.exports = {
   url: 'https://lumen.netlify.com',
-  pathPrefix: '/',
+  pathPrefix: '/folioboard',
   title: 'Blog By kyungin J.',
   subtitle: 'Personal Blog.',
   copyright: '© All rights reserved.',
