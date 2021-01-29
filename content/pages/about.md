@@ -4,6 +4,5 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-데이터에 관심이 많은 웹개발자입니다. 
-사회에 좋은 기여를 할 수 있는 서비스를 만들고 싶습니다.
-지금은 *Spring Framework, Java, Javascript, Node* 등을 이용하여 개발을 하지만 *Python, React* 등에도 관심이 많습니다. 
+웹 서비스 분야에서 일하고 있습니다.  
+주로 *Spring Framework, Java, Javascript, Node* 등을 이용하여 서비스를 구축하거나 운영하고 있습니다. *Python, React* 등에도 관심이 많습니다.

@@ -1,3 +1,3 @@
 <h1 align="center">
-    KyungIn Jin's Personal Blogs.
+    Ravioli-J-Code Blog.
 </h1>

@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/folioboard',
-  title: 'Blog By kyungin J.',
+  title: 'ravioli-j-code',
   subtitle: 'Personal Blog.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -21,7 +21,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'kyungin J.',
+    name: 'ravioli-j',
     photo: '/photo.jpg',
     bio: 'Personal Blog.',
     contacts: {
