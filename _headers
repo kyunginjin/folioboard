@@ -7,7 +7,7 @@
   Referrer-Policy: same-origin
 /component---cache-caches-gatsby-plugin-offline-app-shell-js-fd4fb51a6fac1c18bdde.js
   Cache-Control: public, max-age=31536000, immutable
-/styles.08b6f1b92a40a3f4c705.css
+/styles.fe6eb4cb282b6035a7de.css
   Cache-Control: public, max-age=31536000, immutable
 /styles-407fe62976dc5310c43e.js
   Cache-Control: public, max-age=31536000, immutable
@@ -31,7 +31,7 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-index-template-js-ca748dd912acdce40443.js
   Cache-Control: public, max-age=31536000, immutable
-/webpack-runtime-62b1522256d86d6f861e.js
+/webpack-runtime-b7c0437e00fa5d18b8ac.js
   Cache-Control: public, max-age=31536000, immutable
 /framework-f0fa8831b6d960814d9c.js
   Cache-Control: public, max-age=31536000, immutable
@@ -46,7 +46,7 @@
 /sw.js
   Cache-Control: no-cache
 /folioboard/offline-plugin-app-shell-fallback/
-  Link: </folioboard/webpack-runtime-62b1522256d86d6f861e.js>; rel=preload; as=script
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
   Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
   Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
@@ -56,7 +56,7 @@
   Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </folioboard/page-data/offline-plugin-app-shell-fallback/page-data.json>; rel=preload; as=fetch; crossorigin
 /folioboard/404
-  Link: </folioboard/webpack-runtime-62b1522256d86d6f861e.js>; rel=preload; as=script
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
   Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
   Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
@@ -68,7 +68,7 @@
   Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </folioboard/page-data/404/page-data.json>; rel=preload; as=fetch; crossorigin
 /folioboard/tags
-  Link: </folioboard/webpack-runtime-62b1522256d86d6f861e.js>; rel=preload; as=script
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
   Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
   Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
@@ -81,7 +81,7 @@
   Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </folioboard/page-data/tags/page-data.json>; rel=preload; as=fetch; crossorigin
 /folioboard/categories
-  Link: </folioboard/webpack-runtime-62b1522256d86d6f861e.js>; rel=preload; as=script
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
   Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
   Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
@@ -94,7 +94,7 @@
   Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </folioboard/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
 /folioboard/posts/블로그를-시작했습니다.
-  Link: </folioboard/webpack-runtime-62b1522256d86d6f861e.js>; rel=preload; as=script
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
   Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
   Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
@@ -105,8 +105,20 @@
   Link: </folioboard/component---src-templates-post-template-js-381c1b847824134fa4bd.js>; rel=preload; as=script
   Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </folioboard/page-data/posts/블로그를-시작했습니다./page-data.json>; rel=preload; as=fetch; crossorigin
+/folioboard/posts/마이크로서비스
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </folioboard/dc6a8720040df98778fe970bf6c000a41750d3ae-cfa6563763bc7add6dd7.js>; rel=preload; as=script
+  Link: </folioboard/app-b86aae183dca1addb8ec.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </folioboard/component---src-templates-post-template-js-381c1b847824134fa4bd.js>; rel=preload; as=script
+  Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </folioboard/page-data/posts/마이크로서비스/page-data.json>; rel=preload; as=fetch; crossorigin
 /folioboard/pages/about/
-  Link: </folioboard/webpack-runtime-62b1522256d86d6f861e.js>; rel=preload; as=script
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
   Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
   Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
@@ -118,7 +130,7 @@
   Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </folioboard/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
 /folioboard/tag/blog
-  Link: </folioboard/webpack-runtime-62b1522256d86d6f861e.js>; rel=preload; as=script
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
   Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
   Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
@@ -129,8 +141,80 @@
   Link: </folioboard/component---src-templates-tag-template-js-4ec669dfbc1ce8819e34.js>; rel=preload; as=script
   Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </folioboard/page-data/tag/blog/page-data.json>; rel=preload; as=fetch; crossorigin
+/folioboard/tag/java
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </folioboard/dc6a8720040df98778fe970bf6c000a41750d3ae-cfa6563763bc7add6dd7.js>; rel=preload; as=script
+  Link: </folioboard/app-b86aae183dca1addb8ec.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </folioboard/component---src-templates-tag-template-js-4ec669dfbc1ce8819e34.js>; rel=preload; as=script
+  Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </folioboard/page-data/tag/java/page-data.json>; rel=preload; as=fetch; crossorigin
+/folioboard/tag/micro-serivce-architecture
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </folioboard/dc6a8720040df98778fe970bf6c000a41750d3ae-cfa6563763bc7add6dd7.js>; rel=preload; as=script
+  Link: </folioboard/app-b86aae183dca1addb8ec.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </folioboard/component---src-templates-tag-template-js-4ec669dfbc1ce8819e34.js>; rel=preload; as=script
+  Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </folioboard/page-data/tag/micro-serivce-architecture/page-data.json>; rel=preload; as=fetch; crossorigin
+/folioboard/tag/msa
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </folioboard/dc6a8720040df98778fe970bf6c000a41750d3ae-cfa6563763bc7add6dd7.js>; rel=preload; as=script
+  Link: </folioboard/app-b86aae183dca1addb8ec.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </folioboard/component---src-templates-tag-template-js-4ec669dfbc1ce8819e34.js>; rel=preload; as=script
+  Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </folioboard/page-data/tag/msa/page-data.json>; rel=preload; as=fetch; crossorigin
+/folioboard/tag/spring
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </folioboard/dc6a8720040df98778fe970bf6c000a41750d3ae-cfa6563763bc7add6dd7.js>; rel=preload; as=script
+  Link: </folioboard/app-b86aae183dca1addb8ec.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </folioboard/component---src-templates-tag-template-js-4ec669dfbc1ce8819e34.js>; rel=preload; as=script
+  Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </folioboard/page-data/tag/spring/page-data.json>; rel=preload; as=fetch; crossorigin
+/folioboard/tag/tech
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </folioboard/dc6a8720040df98778fe970bf6c000a41750d3ae-cfa6563763bc7add6dd7.js>; rel=preload; as=script
+  Link: </folioboard/app-b86aae183dca1addb8ec.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </folioboard/component---src-templates-tag-template-js-4ec669dfbc1ce8819e34.js>; rel=preload; as=script
+  Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </folioboard/page-data/tag/tech/page-data.json>; rel=preload; as=fetch; crossorigin
+/folioboard/tag/webservice
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </folioboard/dc6a8720040df98778fe970bf6c000a41750d3ae-cfa6563763bc7add6dd7.js>; rel=preload; as=script
+  Link: </folioboard/app-b86aae183dca1addb8ec.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </folioboard/component---src-templates-tag-template-js-4ec669dfbc1ce8819e34.js>; rel=preload; as=script
+  Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </folioboard/page-data/tag/webservice/page-data.json>; rel=preload; as=fetch; crossorigin
 /folioboard/tag/writing
-  Link: </folioboard/webpack-runtime-62b1522256d86d6f861e.js>; rel=preload; as=script
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
   Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
   Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
@@ -142,7 +226,7 @@
   Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </folioboard/page-data/tag/writing/page-data.json>; rel=preload; as=fetch; crossorigin
 /folioboard/category/blog-inspiration
-  Link: </folioboard/webpack-runtime-62b1522256d86d6f861e.js>; rel=preload; as=script
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
   Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
   Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
@@ -153,8 +237,20 @@
   Link: </folioboard/component---src-templates-category-template-js-80d7889eeb6395877420.js>; rel=preload; as=script
   Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </folioboard/page-data/category/blog-inspiration/page-data.json>; rel=preload; as=fetch; crossorigin
+/folioboard/category/web-service
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
+  Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
+  Link: </folioboard/dc6a8720040df98778fe970bf6c000a41750d3ae-cfa6563763bc7add6dd7.js>; rel=preload; as=script
+  Link: </folioboard/app-b86aae183dca1addb8ec.js>; rel=preload; as=script
+  Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </folioboard/cd95ea5cbd2c605f26db819f07999610c9ff4310-babf0c2595a064681f8b.js>; rel=preload; as=script
+  Link: </folioboard/component---src-templates-category-template-js-80d7889eeb6395877420.js>; rel=preload; as=script
+  Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </folioboard/page-data/category/web-service/page-data.json>; rel=preload; as=fetch; crossorigin
 /folioboard/
-  Link: </folioboard/webpack-runtime-62b1522256d86d6f861e.js>; rel=preload; as=script
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
   Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
   Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
@@ -166,7 +262,7 @@
   Link: </folioboard/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </folioboard/page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
 /folioboard/404.html
-  Link: </folioboard/webpack-runtime-62b1522256d86d6f861e.js>; rel=preload; as=script
+  Link: </folioboard/webpack-runtime-b7c0437e00fa5d18b8ac.js>; rel=preload; as=script
   Link: </folioboard/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </folioboard/framework-f0fa8831b6d960814d9c.js>; rel=preload; as=script
   Link: </folioboard/532a2f07-5d61e092ba8c45c5c11a.js>; rel=preload; as=script
